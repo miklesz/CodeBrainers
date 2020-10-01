@@ -1,6 +1,6 @@
 #!/bin/sh
-# This is a comment!
-echo "Hello      World"	      # This is a comment, too!
+# To jest komentarz!
+echo "Hello      World"	      # To też jest komentarz!
 echo "Hello World"
 echo "Hello * World"
 echo Hello * World

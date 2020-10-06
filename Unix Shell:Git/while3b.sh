@@ -1,5 +1,5 @@
 #!/bin/sh
-while read f
+while f=`line`
 do
   case $f in
         hello)          echo angielski     ;;
@@ -10,3 +10,5 @@ do
         *)              echo nieznany język: $f         ;;
    esac
 done < myfile
+
+

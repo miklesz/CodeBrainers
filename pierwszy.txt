@@ -1,2 +1,3 @@
 Witaj świecie. Tutaj pierwszy plik.
 Dziś jest piekny dzień.
+Poznajemy Git.

@@ -1,1 +1,2 @@
 to jest inna treść z gałęzi konflikt
+Kolejna linia

@@ -1,2 +1,2 @@
 # CodeBrainers
-CodeBrainers
+**CodeBrainers** - materiały dydaktyczne
